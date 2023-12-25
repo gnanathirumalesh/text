@@ -1,0 +1,15 @@
+{
+    "name": "webpage-downloader",
+    "version": "1.0.0",
+    "description": "Express API for downloading text content of a webpage",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "axios": "^0.24.0",
+      "cheerio": "^1.0.0-rc.6"
+    }
+  }
+  
